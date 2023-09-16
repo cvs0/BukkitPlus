@@ -1,0 +1,4 @@
+name: BukkitPlus
+version: '${project.version}'
+main: com.cvs0.bukkitplus.BukkitPlus
+api-version: '1.20'
