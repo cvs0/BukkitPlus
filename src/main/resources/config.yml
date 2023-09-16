@@ -1,0 +1,5 @@
+# Set to true to remove raids triggered by players.
+removeRaids: true
+
+# Set to true to remove phantoms.
+removePhantoms: true
